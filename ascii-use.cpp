@@ -6,6 +6,7 @@ int main() {
 	cout << a << endl;
 	cout << b << endl;
 	cout << "hello bhailog" <<c << endl;
+	cout << "thanks bhailog" <<c << endl;
 	return 0;
 }
 
