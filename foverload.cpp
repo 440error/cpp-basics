@@ -27,7 +27,7 @@ the cout statement must be executed nd then the function call cout one statement
 // since in my friends laptop code  is coming as stated is line 21
 int main(){
     
-     cout << "the sum of 3 and 6 is : "<<sum(3,6) << endl ;
+     cout << "the sum of 3 and 6 is : "   << sum(3,6)     << endl ;
      cout << "the sum of 3,6 and 11 is : "<< sum(3,6,11) << endl ;
 
 
